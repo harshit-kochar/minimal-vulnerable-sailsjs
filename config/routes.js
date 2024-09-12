@@ -9,6 +9,6 @@
  */
 
 module.exports.routes = {
-
+  'GET /headers': 'HeaderController.handleRequest',
 
 };

@@ -5,6 +5,7 @@
   "description": "a Sails application",
   "keywords": [],
   "dependencies": {
+    "lodash": "4.17.10",
     "sails": "^1.5.11"
   },
   "devDependencies": {
